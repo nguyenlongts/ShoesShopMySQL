@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Long\\source\\repos\\ShoesShop\\ShoesShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F24F490-BE2E-48C1-9B9D-BF58B7F1BED4}|ShoesShop.csproj|c:\\users\\long\\source\\repos\\shoesshop\\shoesshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F24F490-BE2E-48C1-9B9D-BF58B7F1BED4}|ShoesShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F24F490-BE2E-48C1-9B9D-BF58B7F1BED4}|ShoesShop.csproj|c:\\users\\long\\source\\repos\\shoesshop\\shoesshop\\controllers\\productdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F24F490-BE2E-48C1-9B9D-BF58B7F1BED4}|ShoesShop.csproj|solutionrelative:controllers\\productdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F24F490-BE2E-48C1-9B9D-BF58B7F1BED4}|ShoesShop.csproj|c:\\users\\long\\source\\repos\\shoesshop\\shoesshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F24F490-BE2E-48C1-9B9D-BF58B7F1BED4}|ShoesShop.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F24F490-BE2E-48C1-9B9D-BF58B7F1BED4}|ShoesShop.csproj|c:\\users\\long\\source\\repos\\shoesshop\\shoesshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F24F490-BE2E-48C1-9B9D-BF58B7F1BED4}|ShoesShop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F24F490-BE2E-48C1-9B9D-BF58B7F1BED4}|ShoesShop.csproj|c:\\users\\long\\source\\repos\\shoesshop\\shoesshop\\shoesshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F24F490-BE2E-48C1-9B9D-BF58B7F1BED4}|ShoesShop.csproj|solutionrelative:shoesshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\Long\\source\\repos\\ShoesShop\\ShoesShop\\Controllers\\ProductDetailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductDetailController.cs",
+              "ToolTip": "C:\\Users\\Long\\source\\repos\\ShoesShop\\ShoesShop\\Controllers\\ProductDetailController.cs",
+              "RelativeToolTip": "Controllers\\ProductDetailController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T10:39:23.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Long\\source\\repos\\ShoesShop\\ShoesShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Long\\source\\repos\\ShoesShop\\ShoesShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T10:39:06.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Long\\source\\repos\\ShoesShop\\ShoesShop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Long\\source\\repos\\ShoesShop\\ShoesShop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAkwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T10:18:27.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoesShop.csproj",
+              "DocumentMoniker": "C:\\Users\\Long\\source\\repos\\ShoesShop\\ShoesShop\\ShoesShop.csproj",
+              "RelativeDocumentMoniker": "ShoesShop.csproj",
+              "ToolTip": "C:\\Users\\Long\\source\\repos\\ShoesShop\\ShoesShop\\ShoesShop.csproj",
+              "RelativeToolTip": "ShoesShop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-18T10:15:37.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Long\\source\\repos\\ShoesShop\\ShoesShop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Long\\source\\repos\\ShoesShop\\ShoesShop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-18T10:13:13.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
