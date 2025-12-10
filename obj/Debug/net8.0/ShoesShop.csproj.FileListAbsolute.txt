@@ -146,3 +146,4 @@ C:\Users\Long\source\repos\ShoesShop\ShoesShop\obj\Debug\net8.0\ShoesShop.genrun
 C:\Users\Long\source\repos\ShoesShop\ShoesShop\obj\Debug\net8.0\ref\ShoesShop.dll
 C:\Users\Long\source\repos\ShoesShop\ShoesShop\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\Long\source\repos\ShoesShop\ShoesShop\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Long\source\repos\ShoesShop\ShoesShop\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

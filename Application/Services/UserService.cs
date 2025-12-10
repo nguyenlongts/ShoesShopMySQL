@@ -69,7 +69,7 @@ namespace ShoesShop.Application.Services
 
             var token = await _userManager.GenerateEmailConfirmationTokenAsync(user);
             var encodedToken = WebEncoders.Base64UrlEncode(Encoding.UTF8.GetBytes(token));
-            var clientUrl = _config["AppSettings:ClientURL"];
+            var clientUrl = _config["AppSettings:ApiURL"];
             var confirmLink = $"{clientUrl}/api/Auth/confirm-email?userId={user.Id}&token={encodedToken}";
 
             string subject = "Xác nhận tài khoản";
